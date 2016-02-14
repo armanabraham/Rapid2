@@ -35,7 +35,7 @@ Software and System Requirements
 
 Contact
 -------
-For questions, suggestions and bug reports please email Arman on: arman.abrahamyan@sydney.edu.au. 
+For questions, suggestions and bug reports please email Arman on: armana@stanford.edu
 
 
 License
