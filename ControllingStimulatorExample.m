@@ -158,7 +158,7 @@ while ~loopUntilEscape
                 display 'Stimulator is disarmed';
             end
             loopUntilEscape = 1;
-
+            fclose(serialPortObj);
             return;
 
         end
