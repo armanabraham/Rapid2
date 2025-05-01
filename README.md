@@ -17,7 +17,7 @@ Usage Instructions
 
 How to test the toolbox
 -----------------------
-If you have a serial cable, the toolbox can be tested by downloading an example script from here: http://www.psych.usyd.edu.au/tmslab/rapid2andrept.html
+If you have a serial cable, the toolbox can be tested by downloading an example script from [here](https://www.sydney.edu.au/science/our-research/research-areas/psychology/transcranial-magnetic-stimulation-laboratory/tms-lab-resources.html).
 1. Ensure Rapid2 toolbox is in your Matlab path
 2. Run ControllingStimulatorExample.m
 3. Important: Press '1' on keyboard to arm the stimulator. You should now hear a click from the stimulator which indicates that the stimulator has been put into 'online' mode. Without arming the stimulator you wouldn't be able to trigger a pulse.
